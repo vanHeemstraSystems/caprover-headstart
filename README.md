@@ -23,3 +23,9 @@ It's blazingly fast and very robust as it uses Docker, nginx, LetsEncrypt and Ne
 ✔ Docker Swarm under the hood for containerization and clustering
 ✔ Nginx (fully customizable template) under the hood for load-balancing
 ✔ Let's Encrypt under the hood for free SSL (HTTPS)
+
+### 200 - Life Demo
+
+Login with password: **captain42**
+
+at https://captain.server.demo.caprover.com/#/login
